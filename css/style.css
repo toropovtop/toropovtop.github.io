@@ -157,3 +157,37 @@ footer {
 	height: 260px;
 }
 }
+@media screen and (max-width: 1440px) {
+	li {
+	padding-right: 10px;
+}
+	ul {
+		margin-left: 50px;
+	}
+	}
+.home p {
+	top: 35%;
+	left: 20%;
+}
+.zapis {
+	height: 710px;
+}
+footer {
+	height: 50px;
+}
+}
+@media screen and (max-width: 1024px) {
+.home p {
+	top: 35%;
+	left: 15%;
+}
+.zapis {
+	height: 900px;
+}
+.zapis h1 {
+	width: 50%;
+}
+footer {
+	height: 60px;
+}
+}
